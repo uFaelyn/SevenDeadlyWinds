@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SevenDeadlyWinds
-- 👀 I’m interested in Games and coding 
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: On my discord (Fae#0409)
-
+- My name is Faelyn
+- 17 years old as of 10/17/23
+- CompTIA ITF+ certified
+- Learning Python
+- My discord is faelyn.olayu
